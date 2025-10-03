@@ -1,0 +1,4 @@
+aiohttp==3.10.8
+beautifulsoup4==4.12.3
+# yarl must satisfy aiohttp's constraint: >=1.12.0,<2.0
+yarl==1.13.1
